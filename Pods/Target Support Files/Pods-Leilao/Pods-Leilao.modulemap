@@ -1,0 +1,6 @@
+framework module Pods_Leilao {
+  umbrella header "Pods-Leilao-umbrella.h"
+
+  export *
+  module * { export * }
+}
